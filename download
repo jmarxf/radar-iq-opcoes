@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/historico_iq.csv
+.DS_Store
